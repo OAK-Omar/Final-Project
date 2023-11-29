@@ -8,3 +8,6 @@ This regression project aims to explore and model the relationship between vario
 The primary objective of this project is to develop accurate regression models that can predict wine quality based on the provided features. Multiple regression algorithms, including linear regression, decision trees, and ensemble methods are employed and compared to determine the most effective model. The findings from this study can have practical applications in the wine industry, contributing to the continuous improvement of wine production processes and the overall enhancement of product quality.
 
 Keywords: Regression, Model selection, Variable Selection
+
+
+Video Link: 
